@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+              "id": 1,
+              "lote": "1-a",
+              "icon": "/assets/numeroLotes/1.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.124157030155736, -25.213595738073828]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 2,
+              "lote": "2-a",
+              "icon": "/assets/numeroLotes/2.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12469145131565, -25.214104022841113]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 3,
+              "lote": "3-a",
+              "icon": "/assets/numeroLotes/3.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.125244433701496, -25.214614135688315]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 4,
+              "lote": "4-a",
+              "icon": "/assets/numeroLotes/4.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.125800696421834, -25.215135820648666]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 5,
+              "lote": "5-a",
+              "icon": "/assets/numeroLotes/5.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12651769553193, -25.21581063864668]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 6,
+              "lote": "6-b",
+              "icon": "/assets/numeroLotes/6.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12329489560764, -25.214327414918834]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 7,
+              "lote": "7-b",
+              "icon": "/assets/numeroLotes/7.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.123831444429, -25.214844797851267]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 8,
+              "lote": "8-b",
+              "icon": "/assets/numeroLotes/8.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.124387429232016, -25.21537075216842]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 9,
+              "lote": "9-b",
+              "icon": "/assets/numeroLotes/9.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12494916828854, -25.215883975799343]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 10,
+              "lote": "10-b",
+              "icon": "/assets/numeroLotes/10.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12562907228284, -25.216524050780848]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 11,
+              "lote": "11-d",
+              "icon": "/assets/numeroLotes/11.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12236076569073, -25.21514292645962]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 12,
+              "lote": "12-d",
+              "icon": "/assets/numeroLotes/12.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.122898704098105, -25.215664130973664]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 13,
+              "lote": "13-d",
+              "icon": "/assets/numeroLotes/13.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12344644706079, -25.216186058776557]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 14,
+              "lote": "14-d",
+              "icon": "/assets/numeroLotes/14.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.12399623112048, -25.216712271039526]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "id": 15,
+              "lote": "15-d",
+              "icon": "/assets/numeroLotes/15.png"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [-58.1246628679842, -25.217309375880014]
+            }
+          }
+    ]
+  }
+  
